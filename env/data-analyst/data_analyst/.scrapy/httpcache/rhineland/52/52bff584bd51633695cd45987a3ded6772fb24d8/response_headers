@@ -1,0 +1,9 @@
+Server: nginx
+Date: Sun, 03 Jul 2022 16:40:26 GMT
+Set-Cookie: CTK=1g72euj4jt1fp800; Domain=.indeed.com; Expires=Fri, 02-Jul-2027 16:40:26 GMT; Path=/
+Set-Cookie: ctkgen=1; Expires=Sun, 03-Jul-2022 16:43:26 GMT; Path=/
+Set-Cookie: JSESSIONID=BD948FFC2D9231F9DF38EC3EF0EB1928; Path=/; HttpOnly
+Set-Cookie: indeed_rcc=""; Expires=Fri, 02-Jul-2027 16:40:26 GMT; Path=/
+Set-Cookie: INDEED_CSRF_TOKEN=FaFLk7t8y9xyFqE8NYLQEOxYacf85ulK; Path=/
+X-Frame-Options: SAMEORIGIN
+Location: https://de.indeed.com/Jobs?q=data%20analyst&l=Rhineland-Palatinate&vjk=adf1245eb9b01664

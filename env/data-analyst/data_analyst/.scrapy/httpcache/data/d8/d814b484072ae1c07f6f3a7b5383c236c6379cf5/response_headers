@@ -1,0 +1,10 @@
+Content-Length: 229
+Server: nginx
+Date: Fri, 01 Jul 2022 23:46:11 GMT
+Content-Type: text/html;charset=utf-8
+Pragma: no-cache
+Expires: Fri, 01 Jul 2022 23:45:11 GMT
+Cache-Control: no-store, no-cache, must-revalidate, private
+Location: https://de.indeed.com/Zeige-Job?cmp=Dynamic-Engineering-GmbH&t=Data+Analyst&jk=666daa145669fd30&vjs=3
+Set-Cookie: CLK=666daa145669fd30; Path=/
+Set-Cookie: VJP="jk=666daa145669fd30"; Path=/; Expires=Sat, 02-Jul-2022 16:26:11 GMT; Max-Age=60000

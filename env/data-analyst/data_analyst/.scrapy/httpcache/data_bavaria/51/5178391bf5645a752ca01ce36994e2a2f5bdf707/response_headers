@@ -1,0 +1,10 @@
+Content-Length: 243
+Server: nginx
+Date: Sat, 02 Jul 2022 10:51:50 GMT
+Content-Type: text/html;charset=utf-8
+Set-Cookie: CLK=54245d73c9de26ae; Path=/
+Set-Cookie: VJP="jk=54245d73c9de26ae"; Path=/; Expires=Sun, 03-Jul-2022 03:31:50 GMT; Max-Age=60000
+Expires: Sat, 02 Jul 2022 10:50:50 GMT
+Pragma: no-cache
+Cache-Control: no-store, no-cache, must-revalidate, private
+Location: https://de.indeed.com/Zeige-Job?cmp=pub.---Public-Value-Technologies-GmbH&t=Data+Engineer&jk=54245d73c9de26ae&vjs=3

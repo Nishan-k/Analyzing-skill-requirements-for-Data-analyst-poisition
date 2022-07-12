@@ -1,0 +1,16 @@
+Content-Type: text/html;charset=UTF-8
+Server: CloudFront
+P3P: CP="CAO PSA OUR"
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Expires: Fri, 01 Jul 2022 00:01:12 GMT
+Cache-Control: no-cache, no-store
+Pragma: no-cache
+Set-Cookie: JSESSIONID=9A9164698BB438B43A511CC41FA05072; Path=/; Secure; HttpOnly; SameSite=None
+Date: Sat, 02 Jul 2022 00:01:12 GMT
+Content-Encoding: gzip
+Vary: Accept-Encoding
+X-Cache: Miss from cloudfront
+Via: 1.1 d4f777a2d5a6d5aeb7eb6201b41775ea.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: FRA60-P2
+X-Amz-Cf-Id: iN_MqK6ERVal71gTkYNJ4EgoGRgtPOV4wtjvUkCAFnNUhYbjiAfuKA==
+Server-Timing: cdn-upstream-layer;desc="REC",cdn-upstream-dns;dur=2,cdn-upstream-connect;dur=181,cdn-upstream-fbl;dur=404,cdn-cache-miss,cdn-pop;desc="FRA60-P2",cdn-rid;desc="iN_MqK6ERVal71gTkYNJ4EgoGRgtPOV4wtjvUkCAFnNUhYbjiAfuKA=="

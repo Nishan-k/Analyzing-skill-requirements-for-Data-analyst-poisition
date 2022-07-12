@@ -1,0 +1,9 @@
+Server: nginx
+Date: Sat, 02 Jul 2022 10:46:04 GMT
+Set-Cookie: CTK=1g6v890tgt1fk800; Domain=.indeed.com; Expires=Thu, 01-Jul-2027 10:46:04 GMT; Path=/
+Set-Cookie: ctkgen=1; Expires=Sat, 02-Jul-2022 10:49:04 GMT; Path=/
+Set-Cookie: JSESSIONID=698C8734EC40DAB55247F1AACE5C4DF5; Path=/; HttpOnly
+Set-Cookie: indeed_rcc=""; Expires=Thu, 01-Jul-2027 10:46:04 GMT; Path=/
+Set-Cookie: INDEED_CSRF_TOKEN=6uEa07vWuskhpYGWsLIkTv3IjoBGvVVZ; Path=/
+X-Frame-Options: SAMEORIGIN
+Location: https://de.indeed.com/Jobs?q=data%20analyst&l=Bavaria&from=searchOnHP&vjk=544649e0510faa94

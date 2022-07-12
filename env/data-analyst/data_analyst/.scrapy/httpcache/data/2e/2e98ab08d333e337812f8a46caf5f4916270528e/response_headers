@@ -1,0 +1,10 @@
+Content-Length: 215
+Server: nginx
+Date: Sat, 02 Jul 2022 00:20:16 GMT
+Content-Type: text/html;charset=utf-8
+Pragma: no-cache
+Expires: Sat, 02 Jul 2022 00:19:16 GMT
+Cache-Control: no-store, no-cache, must-revalidate, private
+Location: https://de.indeed.com/Zeige-Job?cmp=sidion&t=Business+Analyst&jk=9529a7fa53e235e8&vjs=3
+Set-Cookie: CLK=9529a7fa53e235e8; Path=/
+Set-Cookie: VJP="jk=9529a7fa53e235e8"; Path=/; Expires=Sat, 02-Jul-2022 17:00:16 GMT; Max-Age=60000

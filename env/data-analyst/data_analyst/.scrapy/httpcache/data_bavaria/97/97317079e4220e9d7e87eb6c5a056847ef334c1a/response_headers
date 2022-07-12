@@ -1,0 +1,10 @@
+Content-Length: 240
+Server: nginx
+Date: Sat, 02 Jul 2022 10:51:43 GMT
+Content-Type: text/html;charset=utf-8
+Set-Cookie: CLK=76f57e06873b2985; Path=/
+Set-Cookie: VJP="jk=76f57e06873b2985"; Path=/; Expires=Sun, 03-Jul-2022 03:31:43 GMT; Max-Age=60000
+Expires: Sat, 02 Jul 2022 10:50:43 GMT
+Pragma: no-cache
+Cache-Control: no-store, no-cache, must-revalidate, private
+Location: https://de.indeed.com/Zeige-Job?cmp=Sopra-Financial-Technology-GmbH&t=Business+Analyst&jk=76f57e06873b2985&vjs=3

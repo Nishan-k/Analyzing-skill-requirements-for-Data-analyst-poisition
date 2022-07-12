@@ -1,0 +1,10 @@
+Content-Length: 255
+Server: nginx
+Date: Sat, 02 Jul 2022 00:21:03 GMT
+Content-Type: text/html;charset=utf-8
+Pragma: no-cache
+Expires: Sat, 02 Jul 2022 00:20:03 GMT
+Cache-Control: no-store, no-cache, must-revalidate, private
+Location: https://de.indeed.com/Zeige-Job?cmp=Treasury-Intelligence-Solutions-GmbH&t=Senior+Presales+Consultant&jk=98ef899e4e190dff&vjs=3
+Set-Cookie: CLK=98ef899e4e190dff; Path=/
+Set-Cookie: VJP="jk=98ef899e4e190dff"; Path=/; Expires=Sat, 02-Jul-2022 17:01:03 GMT; Max-Age=60000

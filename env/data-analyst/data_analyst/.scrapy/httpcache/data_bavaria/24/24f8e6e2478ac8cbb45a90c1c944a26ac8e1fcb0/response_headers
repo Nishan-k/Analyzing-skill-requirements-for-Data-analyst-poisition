@@ -1,0 +1,10 @@
+Content-Length: 210
+Server: nginx
+Date: Sat, 02 Jul 2022 10:51:41 GMT
+Content-Type: text/html;charset=utf-8
+Set-Cookie: CLK=7e0f7b9941d59a34; Path=/
+Set-Cookie: VJP="jk=7e0f7b9941d59a34"; Path=/; Expires=Sun, 03-Jul-2022 03:31:41 GMT; Max-Age=60000
+Expires: Sat, 02 Jul 2022 10:50:41 GMT
+Pragma: no-cache
+Cache-Control: no-store, no-cache, must-revalidate, private
+Location: https://de.indeed.com/Zeige-Job?cmp=TEAM23&t=Werkstudent&jk=7e0f7b9941d59a34&vjs=3

@@ -1,0 +1,9 @@
+Server: nginx
+Date: Fri, 01 Jul 2022 23:31:44 GMT
+X-Frame-Options: SAMEORIGIN
+Location: https://de.indeed.com/Jobs?q=data%20analyst&l=Baden-W%C3%BCrttemberg&from=searchOnHP&vjk=cc458839864bfdd1
+Set-Cookie: CTK=1g6u1m8tut1f3800; Domain=.indeed.com; Expires=Wed, 30-Jun-2027 23:31:44 GMT; Path=/
+Set-Cookie: ctkgen=1; Expires=Fri, 01-Jul-2022 23:34:44 GMT; Path=/
+Set-Cookie: JSESSIONID=047BFBFC0C35D035AB6CFF250BDBB9F1; Path=/; HttpOnly
+Set-Cookie: indeed_rcc=""; Expires=Wed, 30-Jun-2027 23:31:44 GMT; Path=/
+Set-Cookie: INDEED_CSRF_TOKEN=4OfuUs4RPc8Z50NiixwMcJJEaNs7JHp0; Path=/

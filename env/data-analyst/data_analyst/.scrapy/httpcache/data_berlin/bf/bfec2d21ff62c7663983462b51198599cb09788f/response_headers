@@ -1,0 +1,9 @@
+Server: nginx
+Date: Sat, 02 Jul 2022 11:08:16 GMT
+X-Frame-Options: SAMEORIGIN
+Location: https://de.indeed.com/Jobs?q=data%20analyst&l=Berlin&vjk=a84c31bb8a84156e
+Set-Cookie: CTK=1g6v9hlsrg3mr800; Domain=.indeed.com; Expires=Thu, 01-Jul-2027 11:08:16 GMT; Path=/
+Set-Cookie: ctkgen=1; Expires=Sat, 02-Jul-2022 11:11:16 GMT; Path=/
+Set-Cookie: JSESSIONID=A98DDEB25BD2EBDECFEF0E0B3F082786; Path=/; HttpOnly
+Set-Cookie: indeed_rcc=""; Expires=Thu, 01-Jul-2027 11:08:16 GMT; Path=/
+Set-Cookie: INDEED_CSRF_TOKEN=PGhHCld1nv1hl13yBTAjY3CBbdV9tFT1; Path=/

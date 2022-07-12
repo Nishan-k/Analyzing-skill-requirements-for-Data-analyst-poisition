@@ -1,0 +1,9 @@
+Server: nginx
+Date: Sun, 03 Jul 2022 16:45:18 GMT
+Set-Cookie: CTK=1g72f7h18t1fg801; Domain=.indeed.com; Expires=Fri, 02-Jul-2027 16:45:18 GMT; Path=/
+Set-Cookie: ctkgen=1; Expires=Sun, 03-Jul-2022 16:48:18 GMT; Path=/
+Set-Cookie: JSESSIONID=CEEA72439749BFA5F92FE9B198EAA8BD; Path=/; HttpOnly
+Set-Cookie: indeed_rcc=""; Expires=Fri, 02-Jul-2027 16:45:18 GMT; Path=/
+Set-Cookie: INDEED_CSRF_TOKEN=LFORifqoU4A7VZomNnXyY5lJdeE0teBQ; Path=/
+X-Frame-Options: SAMEORIGIN
+Location: https://de.indeed.com/Jobs?q=data%20analyst&l=North%20Rhine-Westphalia&vjk=f3a8a2bc38d64bbe

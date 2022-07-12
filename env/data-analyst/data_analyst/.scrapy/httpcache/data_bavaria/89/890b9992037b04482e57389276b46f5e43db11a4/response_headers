@@ -1,0 +1,10 @@
+Content-Length: 247
+Server: nginx
+Date: Sat, 02 Jul 2022 10:50:53 GMT
+Content-Type: text/html;charset=utf-8
+Set-Cookie: CLK=94f56332d8d15339; Path=/
+Set-Cookie: VJP="jk=94f56332d8d15339"; Path=/; Expires=Sun, 03-Jul-2022 03:30:53 GMT; Max-Age=60000
+Expires: Sat, 02 Jul 2022 10:49:53 GMT
+Pragma: no-cache
+Cache-Control: no-store, no-cache, must-revalidate, private
+Location: https://de.indeed.com/Zeige-Job?cmp=WAY-People%2B-GmbH&t=Spezialist+Data+Analyst+Zubeh%C3%B6r&jk=94f56332d8d15339&vjs=3

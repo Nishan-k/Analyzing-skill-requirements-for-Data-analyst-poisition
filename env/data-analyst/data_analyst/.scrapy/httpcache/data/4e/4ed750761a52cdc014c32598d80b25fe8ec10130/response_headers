@@ -1,0 +1,10 @@
+Content-Length: 215
+Server: nginx
+Date: Sat, 02 Jul 2022 00:01:34 GMT
+Content-Type: text/html;charset=utf-8
+Pragma: no-cache
+Expires: Sat, 02 Jul 2022 00:00:34 GMT
+Cache-Control: no-store, no-cache, must-revalidate, private
+Location: https://de.indeed.com/Zeige-Job?cmp=Volksbank&t=Data+Engineer&jk=39742afec830c9b1&vjs=3
+Set-Cookie: CLK=39742afec830c9b1; Path=/
+Set-Cookie: VJP="jk=39742afec830c9b1"; Path=/; Expires=Sat, 02-Jul-2022 16:41:34 GMT; Max-Age=60000

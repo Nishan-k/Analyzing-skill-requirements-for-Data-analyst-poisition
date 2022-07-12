@@ -1,0 +1,742 @@
+State ID,States,Programming Languages,Languages,Education,Visualizations,Packages and Libraries,Tools
+1,Baden-Württemberg,Python,English,Master,Tableau,NumPy,PowerPoint
+1,Baden-Württemberg,Python,English,Master,Tableau,NumPy,PowerPoint
+1,Baden-Württemberg,Python,English,Master,Tableau,Pandas,PowerPoint
+1,Baden-Württemberg,Python,English,Master,Tableau,Pandas,PowerPoint
+1,Baden-Württemberg,Python,English,Master,Tableau,Scikitlearn,PowerPoint
+1,Baden-Württemberg,Python,English,Master,Tableau,Scikitlearn,PowerPoint
+1,Baden-Württemberg,Python,English,Master,Tableau,Selenium,Google Analytics
+1,Baden-Württemberg,Python,English,Master,Tableau,,Google Analytics
+1,Baden-Württemberg,Python,English,Master,Tableau,,Google Analytics
+1,Baden-Württemberg,Python,English,Master,QLIK,,Google Analytics
+1,Baden-Württemberg,Python,English,Master,QLIK,,Google Analytics
+1,Baden-Württemberg,Python,English,Master,Plotly,,Google Analytics
+1,Baden-Württemberg,Python,English,PHD,Plotly,,Google Analytics
+1,Baden-Württemberg,Python,English,PHD,Plotly,,Google Data Studio
+1,Baden-Württemberg,Python,English,Bachelor,Plotly,,Google Data Studio
+1,Baden-Württemberg,Python,English,Bachelor,Looker,,Google Data Studio
+1,Baden-Württemberg,Python,English,Bachelor,Looker,,Adobe Analytics
+1,Baden-Württemberg,Python,English,Bachelor,Power BI,,Adobe Analytics
+1,Baden-Württemberg,Python,English,Bachelor,Power BI,,Excel
+1,Baden-Württemberg,SQL,English,Bachelor,Power BI,,Excel
+1,Baden-Württemberg,SQL,English,Bachelor,Power BI,,Excel
+1,Baden-Württemberg,SQL,English,Bachelor,Power BI,,Excel
+1,Baden-Württemberg,SQL,English,Bachelor,Power BI,,Excel
+1,Baden-Württemberg,SQL,English,Bachelor,Power BI,,Excel
+1,Baden-Württemberg,SQL,English,Bachelor,Power BI,,Excel
+1,Baden-Württemberg,SQL,English,Bachelor,,,Excel
+1,Baden-Württemberg,SQL,English,,,,Excel
+1,Baden-Württemberg,SQL,English,,,,Excel
+1,Baden-Württemberg,SQL,English,,,,Excel
+1,Baden-Württemberg,SQL,English,,,,Excel
+1,Baden-Württemberg,SQL,English,,,,Excel
+1,Baden-Württemberg,SQL,English,,,,Excel
+1,Baden-Württemberg,SQL,English,,,,Excel
+1,Baden-Württemberg,SQL,English,,,,Excel
+1,Baden-Württemberg,SQL,English,,,,Excel
+1,Baden-Württemberg,SQL,English,,,,Excel
+1,Baden-Württemberg,SQL,English,,,,
+1,Baden-Württemberg,SQL,English,,,,
+1,Baden-Württemberg,SQL,English,,,,
+1,Baden-Württemberg,SQL,English,,,,
+1,Baden-Württemberg,SQL,English,,,,
+1,Baden-Württemberg,SQL,English,,,,
+1,Baden-Württemberg,SQL,English,,,,
+1,Baden-Württemberg,SQL,English,,,,
+1,Baden-Württemberg,SQL,English,,,,
+1,Baden-Württemberg,SQL,English,,,,
+1,Baden-Württemberg,SQL,English,,,,
+1,Baden-Württemberg,SQL,English,,,,
+1,Baden-Württemberg,Java,English,,,,
+1,Baden-Württemberg,JavaScript,German,,,,
+1,Baden-Württemberg,Scala,German,,,,
+1,Baden-Württemberg,NoSQL,German,,,,
+1,Baden-Württemberg,NoSQL,German,,,,
+1,Baden-Württemberg,NoSQL,German,,,,
+1,Baden-Württemberg,Matlab,German,,,,
+1,Baden-Württemberg,Matlab,German,,,,
+1,Baden-Württemberg,SAS,German,,,,
+1,Baden-Württemberg,Perl,German,,,,
+1,Baden-Württemberg,PHP,German,,,,
+1,Baden-Württemberg,VBA,German,,,,
+1,Baden-Württemberg,R,German,,,,
+1,Baden-Württemberg,R,German,,,,
+1,Baden-Württemberg,R,German,,,,
+1,Baden-Württemberg,R,German,,,,
+1,Baden-Württemberg,,German,,,,
+1,Baden-Württemberg,,German,,,,
+1,Baden-Württemberg,,German,,,,
+1,Baden-Württemberg,,German,,,,
+1,Baden-Württemberg,,German,,,,
+1,Baden-Württemberg,,German,,,,
+1,Baden-Württemberg,,German,,,,
+1,Baden-Württemberg,,German,,,,
+1,Baden-Württemberg,,German,,,,
+1,Baden-Württemberg,,German,,,,
+1,Baden-Württemberg,,German,,,,
+1,Baden-Württemberg,,German,,,,
+1,Baden-Württemberg,,German,,,,
+1,Baden-Württemberg,,German,,,,
+1,Baden-Württemberg,,German,,,,
+1,Baden-Württemberg,,German,,,,
+1,Baden-Württemberg,,German,,,,
+1,Baden-Württemberg,,German,,,,
+1,Baden-Württemberg,,French,,,,
+10,North Rhine-Westphalia,Python,English,Master,Tableau,Tensorflow,PowerPoint
+10,North Rhine-Westphalia,Python,English,Master,Tableau,Pandas,Google Analytics
+10,North Rhine-Westphalia,Python,English,Master,QLIK,Keras,Google Analytics
+10,North Rhine-Westphalia,Python,English,Master,QLIK,Keras,Google Data Studio
+10,North Rhine-Westphalia,Python,English,PHD,Power BI,PyTorch,Adobe Analytics
+10,North Rhine-Westphalia,Python,English,Bachelor,Power BI,,Adobe Analytics
+10,North Rhine-Westphalia,Python,English,Bachelor,Power BI,,Excel
+10,North Rhine-Westphalia,Python,English,Bachelor,Power BI,,Excel
+10,North Rhine-Westphalia,Python,English,Bachelor,Power BI,,Excel
+10,North Rhine-Westphalia,Python,English,,Power BI,,Excel
+10,North Rhine-Westphalia,Python,English,,Power BI,,Excel
+10,North Rhine-Westphalia,Python,English,,Power BI,,Excel
+10,North Rhine-Westphalia,Python,English,,Power BI,,Excel
+10,North Rhine-Westphalia,Python,English,,Power BI,,
+10,North Rhine-Westphalia,Python,English,,Power BI,,
+10,North Rhine-Westphalia,SQL,English,,,,
+10,North Rhine-Westphalia,SQL,English,,,,
+10,North Rhine-Westphalia,SQL,English,,,,
+10,North Rhine-Westphalia,SQL,English,,,,
+10,North Rhine-Westphalia,SQL,English,,,,
+10,North Rhine-Westphalia,SQL,English,,,,
+10,North Rhine-Westphalia,SQL,English,,,,
+10,North Rhine-Westphalia,SQL,English,,,,
+10,North Rhine-Westphalia,SQL,English,,,,
+10,North Rhine-Westphalia,SQL,English,,,,
+10,North Rhine-Westphalia,SQL,English,,,,
+10,North Rhine-Westphalia,SQL,English,,,,
+10,North Rhine-Westphalia,SQL,English,,,,
+10,North Rhine-Westphalia,SQL,English,,,,
+10,North Rhine-Westphalia,SQL,English,,,,
+10,North Rhine-Westphalia,SQL,English,,,,
+10,North Rhine-Westphalia,SQL,English,,,,
+10,North Rhine-Westphalia,SQL,English,,,,
+10,North Rhine-Westphalia,SQL,English,,,,
+10,North Rhine-Westphalia,SQL,English,,,,
+10,North Rhine-Westphalia,Java,English,,,,
+10,North Rhine-Westphalia,Java,English,,,,
+10,North Rhine-Westphalia,Java,English,,,,
+10,North Rhine-Westphalia,JavaScript,English,,,,
+10,North Rhine-Westphalia,JavaScript,English,,,,
+10,North Rhine-Westphalia,NoSQL,English,,,,
+10,North Rhine-Westphalia,SAS,German,,,,
+10,North Rhine-Westphalia,PHP,German,,,,
+10,North Rhine-Westphalia,VBA,German,,,,
+10,North Rhine-Westphalia,VBA,German,,,,
+10,North Rhine-Westphalia,R,German,,,,
+10,North Rhine-Westphalia,R,German,,,,
+10,North Rhine-Westphalia,R,German,,,,
+10,North Rhine-Westphalia,R,German,,,,
+10,North Rhine-Westphalia,R,German,,,,
+10,North Rhine-Westphalia,R,German,,,,
+10,North Rhine-Westphalia,,German,,,,
+10,North Rhine-Westphalia,,German,,,,
+10,North Rhine-Westphalia,,German,,,,
+10,North Rhine-Westphalia,,German,,,,
+10,North Rhine-Westphalia,,German,,,,
+10,North Rhine-Westphalia,,German,,,,
+10,North Rhine-Westphalia,,German,,,,
+10,North Rhine-Westphalia,,German,,,,
+10,North Rhine-Westphalia,,German,,,,
+10,North Rhine-Westphalia,,German,,,,
+10,North Rhine-Westphalia,,German,,,,
+10,North Rhine-Westphalia,,German,,,,
+10,North Rhine-Westphalia,,German,,,,
+10,North Rhine-Westphalia,,German,,,,
+10,North Rhine-Westphalia,,German,,,,
+10,North Rhine-Westphalia,,German,,,,
+10,North Rhine-Westphalia,,German,,,,
+10,North Rhine-Westphalia,,German,,,,
+10,North Rhine-Westphalia,,German,,,,
+10,North Rhine-Westphalia,,German,,,,
+10,North Rhine-Westphalia,,German,,,,
+10,North Rhine-Westphalia,,German,,,,
+10,North Rhine-Westphalia,,German,,,,
+11,Rhineland-Palatinate,Python,English,Bachelor,Tableau,,Excel
+11,Rhineland-Palatinate,Python,English,,Tableau,,Excel
+11,Rhineland-Palatinate,Python,German,,Tableau,,
+11,Rhineland-Palatinate,Python,German,,QLIK,,
+11,Rhineland-Palatinate,Python,German,,Power BI,,
+11,Rhineland-Palatinate,SQL,,,,,
+11,Rhineland-Palatinate,SQL,,,,,
+11,Rhineland-Palatinate,SQL,,,,,
+11,Rhineland-Palatinate,SQL,,,,,
+11,Rhineland-Palatinate,SQL,,,,,
+11,Rhineland-Palatinate,SQL,,,,,
+11,Rhineland-Palatinate,R,,,,,
+11,Rhineland-Palatinate,R,,,,,
+11,Rhineland-Palatinate,R,,,,,
+11,Rhineland-Palatinate,R,,,,,
+12,Saarland,Python,English,Bachelor,Tableau,,Google Data Studio
+12,Saarland,Python,English,Bachelor,Power BI,,
+12,Saarland,Python,English,,,,
+12,Saarland,SQL,German,,,,
+12,Saarland,SQL,German,,,,
+12,Saarland,SQL,German,,,,
+12,Saarland,SQL,,,,,
+12,Saarland,NoSQL,,,,,
+12,Saarland,R,,,,,
+12,Saarland,R,,,,,
+13,Saxony,Python,English,Bachelor,Power BI,,Excel
+13,Saxony,Python,English,,Power BI,,
+13,Saxony,Python,English,,,,
+13,Saxony,Python,English,,,,
+13,Saxony,Python,English,,,,
+13,Saxony,Python,English,,,,
+13,Saxony,Python,English,,,,
+13,Saxony,Python,English,,,,
+13,Saxony,Python,English,,,,
+13,Saxony,Python,English,,,,
+13,Saxony,SQL,German,,,,
+13,Saxony,SQL,German,,,,
+13,Saxony,SQL,German,,,,
+13,Saxony,SQL,German,,,,
+13,Saxony,SQL,German,,,,
+13,Saxony,SQL,German,,,,
+13,Saxony,SQL,German,,,,
+13,Saxony,SQL,German,,,,
+13,Saxony,SQL,German,,,,
+13,Saxony,SQL,German,,,,
+13,Saxony,Java,French,,,,
+13,Saxony,NoSQL,,,,,
+13,Saxony,Matlab,,,,,
+13,Saxony,Matlab,,,,,
+13,Saxony,SAS,,,,,
+13,Saxony,VBA,,,,,
+13,Saxony,VBA,,,,,
+13,Saxony,R,,,,,
+13,Saxony,R,,,,,
+13,Saxony,R,,,,,
+13,Saxony,R,,,,,
+14,Saxony-Anhalt,Python,English,Bachelor,,,Excel
+14,Saxony-Anhalt,SQL,English,Bachelor,,,
+14,Saxony-Anhalt,SQL,English,Bachelor,,,
+14,Saxony-Anhalt,Java,German,Master,,,
+14,Saxony-Anhalt,JavaScript,,Master,,,
+14,Saxony-Anhalt,R,,,,,
+15,Schleswig-Holstein,Python,English,Bachelor,,,Excel
+15,Schleswig-Holstein,Python,English,Bachelor,,,Excel
+15,Schleswig-Holstein,Python,English,,,,
+15,Schleswig-Holstein,Python,English,,,,
+15,Schleswig-Holstein,Python,English,,,,
+15,Schleswig-Holstein,Python,German,,,,
+15,Schleswig-Holstein,Python,German,,,,
+15,Schleswig-Holstein,SQL,German,,,,
+15,Schleswig-Holstein,SQL,German,,,,
+15,Schleswig-Holstein,SQL,German,,,,
+15,Schleswig-Holstein,SQL,,,,,
+15,Schleswig-Holstein,R,,,,,
+15,Schleswig-Holstein,R,,,,,
+15,Schleswig-Holstein,R,,,,,
+15,Schleswig-Holstein,R,,,,,
+15,Schleswig-Holstein,R,,,,,
+16,Thuringia,Python,English,Master,Power BI,,
+16,Thuringia,Python,English,Master,Power BI,,
+16,Thuringia,Python,English,Bachelor,Power BI,,
+16,Thuringia,Python,English,PHD,Power BI,,
+16,Thuringia,Python,English,,Power BI,,
+16,Thuringia,Python,English,,Power BI,,
+16,Thuringia,Python,English,,Power BI,,
+16,Thuringia,Python,English,,Power BI,,
+16,Thuringia,Python,English,,Power BI,,
+16,Thuringia,Python,English,,Power BI,,
+16,Thuringia,Python,English,,Power BI,,
+16,Thuringia,Python,English,,Power BI,,
+16,Thuringia,Python,English,,Power BI,,
+16,Thuringia,Python,English,,Power BI,,
+16,Thuringia,Python,English,,Power BI,,
+16,Thuringia,Python,English,,Power BI,,
+16,Thuringia,Python,English,,Power BI,,
+16,Thuringia,Python,English,,Power BI,,
+16,Thuringia,Python,English,,Power BI,,
+16,Thuringia,Python,English,,Power BI,,
+16,Thuringia,Python,English,,Power BI,,
+16,Thuringia,Python,English,,Power BI,,
+16,Thuringia,Python,English,,Power BI,,
+16,Thuringia,Python,English,,Power BI,,
+16,Thuringia,Python,English,,Power BI,,
+16,Thuringia,Python,English,,Power BI,,
+16,Thuringia,Python,English,,Power BI,,
+16,Thuringia,Python,English,,Power BI,,
+16,Thuringia,Python,English,,Power BI,,
+16,Thuringia,Python,English,,Power BI,,
+16,Thuringia,Python,English,,,,
+16,Thuringia,Python,English,,,,
+16,Thuringia,Python,English,,,,
+16,Thuringia,SQL,English,,,,
+16,Thuringia,SQL,German,,,,
+16,Thuringia,SQL,German,,,,
+16,Thuringia,SQL,German,,,,
+16,Thuringia,SQL,German,,,,
+16,Thuringia,SQL,German,,,,
+16,Thuringia,SQL,German,,,,
+16,Thuringia,SQL,German,,,,
+16,Thuringia,SQL,German,,,,
+16,Thuringia,SQL,German,,,,
+16,Thuringia,SQL,German,,,,
+16,Thuringia,SQL,German,,,,
+16,Thuringia,SQL,German,,,,
+16,Thuringia,SQL,German,,,,
+16,Thuringia,SQL,German,,,,
+16,Thuringia,SQL,German,,,,
+16,Thuringia,SQL,German,,,,
+16,Thuringia,SQL,German,,,,
+16,Thuringia,SQL,German,,,,
+16,Thuringia,SQL,German,,,,
+16,Thuringia,SQL,German,,,,
+16,Thuringia,SQL,German,,,,
+16,Thuringia,SQL,German,,,,
+16,Thuringia,SQL,German,,,,
+16,Thuringia,SQL,German,,,,
+16,Thuringia,SQL,German,,,,
+16,Thuringia,SQL,German,,,,
+16,Thuringia,SQL,German,,,,
+16,Thuringia,SQL,German,,,,
+16,Thuringia,SQL,German,,,,
+16,Thuringia,SQL,German,,,,
+16,Thuringia,SQL,German,,,,
+16,Thuringia,SQL,German,,,,
+16,Thuringia,R,German,,,,
+16,Thuringia,R,German,,,,
+16,Thuringia,,German,,,,
+16,Thuringia,,German,,,,
+16,Thuringia,,German,,,,
+16,Thuringia,,German,,,,
+16,Thuringia,,German,,,,
+16,Thuringia,,German,,,,
+16,Thuringia,,German,,,,
+16,Thuringia,,German,,,,
+16,Thuringia,,German,,,,
+2,Bavaria,Python,English,Master,Tableau,Pandas,PowerPoint
+2,Bavaria,Python,English,Master,Tableau,Keras,Google Analytics
+2,Bavaria,Python,English,Master,Tableau,PyTorch,Google Data Studio
+2,Bavaria,Python,English,Master,Tableau,,Google Data Studio
+2,Bavaria,Python,English,Bachelor,Tableau,,Google Data Studio
+2,Bavaria,Python,English,Bachelor,Tableau,,Adobe Analytics
+2,Bavaria,Python,English,Bachelor,Tableau,,Excel
+2,Bavaria,Python,English,Bachelor,Tableau,,Excel
+2,Bavaria,Python,English,Bachelor,Tableau,,Excel
+2,Bavaria,Python,English,,Tableau,,Excel
+2,Bavaria,SQL,English,,QLIK,,Excel
+2,Bavaria,SQL,English,,Looker,,Excel
+2,Bavaria,SQL,English,,Power BI,,Excel
+2,Bavaria,SQL,English,,,,Excel
+2,Bavaria,SQL,English,,,,Excel
+2,Bavaria,SQL,English,,,,Excel
+2,Bavaria,SQL,English,,,,
+2,Bavaria,SQL,English,,,,
+2,Bavaria,SQL,English,,,,
+2,Bavaria,SQL,English,,,,
+2,Bavaria,SQL,English,,,,
+2,Bavaria,SQL,English,,,,
+2,Bavaria,SQL,German,,,,
+2,Bavaria,SQL,German,,,,
+2,Bavaria,SQL,German,,,,
+2,Bavaria,SQL,German,,,,
+2,Bavaria,NoSQL,German,,,,
+2,Bavaria,VBA,German,,,,
+2,Bavaria,R,German,,,,
+2,Bavaria,R,German,,,,
+2,Bavaria,R,German,,,,
+2,Bavaria,R,German,,,,
+2,Bavaria,,German,,,,
+2,Bavaria,,German,,,,
+2,Bavaria,,German,,,,
+2,Bavaria,,German,,,,
+2,Bavaria,,German,,,,
+2,Bavaria,,German,,,,
+2,Bavaria,,German,,,,
+2,Bavaria,,German,,,,
+2,Bavaria,,German,,,,
+2,Bavaria,,German,,,,
+2,Bavaria,,German,,,,
+2,Bavaria,,German,,,,
+3,Berlin,Python,English,Master,Tableau,Pandas,PowerPoint
+3,Berlin,Python,English,Master,Tableau,,PowerPoint
+3,Berlin,Python,English,Bachelor,Tableau,,Google Analytics
+3,Berlin,Python,English,Bachelor,Tableau,,Google Analytics
+3,Berlin,Python,English,Bachelor,Tableau,,Google Analytics
+3,Berlin,Python,English,,Tableau,,Google Analytics
+3,Berlin,Python,English,,Tableau,,Google Analytics
+3,Berlin,Python,English,,Tableau,,Google Data Studio
+3,Berlin,Python,English,,Tableau,,Excel
+3,Berlin,Python,English,,Tableau,,Excel
+3,Berlin,Python,English,,Tableau,,Excel
+3,Berlin,Python,English,,Tableau,,Excel
+3,Berlin,Python,English,,Tableau,,Excel
+3,Berlin,Python,English,,Tableau,,Excel
+3,Berlin,Python,English,,Tableau,,Excel
+3,Berlin,Python,English,,Tableau,,Excel
+3,Berlin,Python,English,,Tableau,,Excel
+3,Berlin,Python,English,,Tableau,,Excel
+3,Berlin,Python,English,,Tableau,,Excel
+3,Berlin,Python,English,,Tableau,,
+3,Berlin,Python,English,,Tableau,,
+3,Berlin,Python,English,,QLIK,,
+3,Berlin,Python,English,,Looker,,
+3,Berlin,Python,English,,Looker,,
+3,Berlin,Python,English,,Looker,,
+3,Berlin,Python,English,,Looker,,
+3,Berlin,Python,English,,Looker,,
+3,Berlin,Python,English,,Looker,,
+3,Berlin,Python,English,,Looker,,
+3,Berlin,Python,English,,Power BI,,
+3,Berlin,SQL,English,,Power BI,,
+3,Berlin,SQL,English,,Power BI,,
+3,Berlin,SQL,German,,Power BI,,
+3,Berlin,SQL,German,,,,
+3,Berlin,SQL,German,,,,
+3,Berlin,SQL,German,,,,
+3,Berlin,SQL,German,,,,
+3,Berlin,SQL,German,,,,
+3,Berlin,SQL,German,,,,
+3,Berlin,SQL,German,,,,
+3,Berlin,SQL,German,,,,
+3,Berlin,SQL,German,,,,
+3,Berlin,SQL,German,,,,
+3,Berlin,SQL,German,,,,
+3,Berlin,SQL,German,,,,
+3,Berlin,SQL,German,,,,
+3,Berlin,SQL,German,,,,
+3,Berlin,SQL,German,,,,
+3,Berlin,SQL,German,,,,
+3,Berlin,SQL,German,,,,
+3,Berlin,SQL,German,,,,
+3,Berlin,SQL,German,,,,
+3,Berlin,SQL,German,,,,
+3,Berlin,SQL,German,,,,
+3,Berlin,SQL,German,,,,
+3,Berlin,SQL,German,,,,
+3,Berlin,SQL,French,,,,
+3,Berlin,SQL,French,,,,
+3,Berlin,SQL,,,,,
+3,Berlin,SQL,,,,,
+3,Berlin,SQL,,,,,
+3,Berlin,SQL,,,,,
+3,Berlin,SQL,,,,,
+3,Berlin,SQL,,,,,
+3,Berlin,SQL,,,,,
+3,Berlin,SQL,,,,,
+3,Berlin,Java,,,,,
+3,Berlin,Java,,,,,
+3,Berlin,Java,,,,,
+3,Berlin,Java,,,,,
+3,Berlin,JavaScript,,,,,
+3,Berlin,Scala,,,,,
+3,Berlin,Scala,,,,,
+3,Berlin,Scala,,,,,
+3,Berlin,SAS,,,,,
+3,Berlin,VBA,,,,,
+3,Berlin,VBA,,,,,
+3,Berlin,R,,,,,
+3,Berlin,R,,,,,
+3,Berlin,R,,,,,
+3,Berlin,R,,,,,
+3,Berlin,R,,,,,
+3,Berlin,R,,,,,
+3,Berlin,R,,,,,
+3,Berlin,R,,,,,
+3,Berlin,R,,,,,
+3,Berlin,R,,,,,
+3,Berlin,R,,,,,
+4,Brandenburg,SQL,English,Master,Looker,Selenium,Excel
+4,Brandenburg,SQL,English,Bachelor,Looker,,Excel
+4,Brandenburg,SQL,English,Bachelor,Looker,,Excel
+4,Brandenburg,Java,English,,Looker,,Excel
+4,Brandenburg,JavaScript,English,,Looker,,Excel
+4,Brandenburg,JavaScript,English,,,,
+4,Brandenburg,Scala,English,,,,
+4,Brandenburg,Scala,English,,,,
+4,Brandenburg,Scala,English,,,,
+4,Brandenburg,Scala,English,,,,
+4,Brandenburg,Scala,English,,,,
+4,Brandenburg,NoSQL,English,,,,
+4,Brandenburg,NoSQL,English,,,,
+4,Brandenburg,VBA,English,,,,
+4,Brandenburg,VBA,English,,,,
+4,Brandenburg,VBA,English,,,,
+4,Brandenburg,VBA,English,,,,
+4,Brandenburg,VBA,English,,,,
+4,Brandenburg,,English,,,,
+4,Brandenburg,,English,,,,
+4,Brandenburg,,English,,,,
+4,Brandenburg,,English,,,,
+4,Brandenburg,,English,,,,
+4,Brandenburg,,English,,,,
+4,Brandenburg,,English,,,,
+4,Brandenburg,,English,,,,
+4,Brandenburg,,English,,,,
+4,Brandenburg,,English,,,,
+4,Brandenburg,,English,,,,
+4,Brandenburg,,German,,,,
+4,Brandenburg,,German,,,,
+4,Brandenburg,,German,,,,
+4,Brandenburg,,German,,,,
+4,Brandenburg,,German,,,,
+4,Brandenburg,,German,,,,
+4,Brandenburg,,German,,,,
+4,Brandenburg,,German,,,,
+4,Brandenburg,,German,,,,
+4,Brandenburg,,German,,,,
+4,Brandenburg,,German,,,,
+4,Brandenburg,,German,,,,
+4,Brandenburg,,German,,,,
+4,Brandenburg,,German,,,,
+4,Brandenburg,,German,,,,
+4,Brandenburg,,German,,,,
+4,Brandenburg,,German,,,,
+4,Brandenburg,,German,,,,
+4,Brandenburg,,German,,,,
+4,Brandenburg,,German,,,,
+4,Brandenburg,,German,,,,
+4,Brandenburg,,German,,,,
+4,Brandenburg,,German,,,,
+4,Brandenburg,,German,,,,
+4,Brandenburg,,German,,,,
+4,Brandenburg,,German,,,,
+4,Brandenburg,,German,,,,
+4,Brandenburg,,German,,,,
+4,Brandenburg,,German,,,,
+4,Brandenburg,,German,,,,
+5,Bremen,Python,English,Bachelor,Tableau,,
+5,Bremen,SQL,English,,Power BI,,
+5,Bremen,R,German,,,,
+6,Hamburg,Python,English,Master,Tableau,,PowerPoint
+6,Hamburg,Python,English,Master,Tableau,,PowerPoint
+6,Hamburg,Python,English,Master,Tableau,,PowerPoint
+6,Hamburg,Python,English,Master,Tableau,,Google Analytics
+6,Hamburg,Python,English,Bachelor,Tableau,,Google Analytics
+6,Hamburg,Python,English,Bachelor,QLIK,,Google Analytics
+6,Hamburg,Python,English,,Looker,,Adobe Analytics
+6,Hamburg,Python,English,,Power BI,,Excel
+6,Hamburg,Python,English,,Power BI,,Excel
+6,Hamburg,Python,English,,,,Excel
+6,Hamburg,Python,English,,,,Excel
+6,Hamburg,SQL,English,,,,Excel
+6,Hamburg,SQL,English,,,,Excel
+6,Hamburg,SQL,English,,,,Excel
+6,Hamburg,SQL,English,,,,Excel
+6,Hamburg,SQL,English,,,,Excel
+6,Hamburg,SQL,English,,,,
+6,Hamburg,SQL,English,,,,
+6,Hamburg,SQL,English,,,,
+6,Hamburg,SQL,English,,,,
+6,Hamburg,SQL,English,,,,
+6,Hamburg,SQL,English,,,,
+6,Hamburg,SQL,English,,,,
+6,Hamburg,SQL,English,,,,
+6,Hamburg,SQL,English,,,,
+6,Hamburg,Java,English,,,,
+6,Hamburg,NoSQL,English,,,,
+6,Hamburg,PHP,English,,,,
+6,Hamburg,VBA,English,,,,
+6,Hamburg,R,English,,,,
+6,Hamburg,R,English,,,,
+6,Hamburg,R,English,,,,
+6,Hamburg,,English,,,,
+6,Hamburg,,German,,,,
+6,Hamburg,,German,,,,
+6,Hamburg,,German,,,,
+6,Hamburg,,German,,,,
+6,Hamburg,,German,,,,
+6,Hamburg,,German,,,,
+6,Hamburg,,German,,,,
+6,Hamburg,,German,,,,
+6,Hamburg,,German,,,,
+6,Hamburg,,German,,,,
+6,Hamburg,,German,,,,
+6,Hamburg,,German,,,,
+6,Hamburg,,German,,,,
+6,Hamburg,,German,,,,
+6,Hamburg,,German,,,,
+6,Hamburg,,German,,,,
+6,Hamburg,,German,,,,
+6,Hamburg,,German,,,,
+6,Hamburg,,German,,,,
+6,Hamburg,,German,,,,
+6,Hamburg,,German,,,,
+7,Hesse,Python,English,Master,Tableau,,PowerPoint
+7,Hesse,Python,English,Master,Tableau,,PowerPoint
+7,Hesse,Python,English,Master,Tableau,,PowerPoint
+7,Hesse,Python,English,Bachelor,Tableau,,Google Analytics
+7,Hesse,Python,English,Bachelor,Looker,,Excel
+7,Hesse,Python,English,Bachelor,Power BI,,Excel
+7,Hesse,Python,English,Bachelor,Power BI,,Excel
+7,Hesse,Python,English,Bachelor,Power BI,,Excel
+7,Hesse,Python,English,Bachelor,Power BI,,Excel
+7,Hesse,Python,English,Bachelor,Power BI,,Excel
+7,Hesse,Python,English,Bachelor,Power BI,,Excel
+7,Hesse,Python,English,Bachelor,,,Excel
+7,Hesse,Python,English,Bachelor,,,Excel
+7,Hesse,Python,English,Bachelor,,,Excel
+7,Hesse,Python,English,Bachelor,,,Excel
+7,Hesse,Python,English,,,,
+7,Hesse,SQL,English,,,,
+7,Hesse,SQL,English,,,,
+7,Hesse,SQL,English,,,,
+7,Hesse,SQL,English,,,,
+7,Hesse,SQL,English,,,,
+7,Hesse,SQL,English,,,,
+7,Hesse,SQL,English,,,,
+7,Hesse,SQL,English,,,,
+7,Hesse,SQL,English,,,,
+7,Hesse,SQL,English,,,,
+7,Hesse,SQL,English,,,,
+7,Hesse,SQL,English,,,,
+7,Hesse,SQL,English,,,,
+7,Hesse,SQL,English,,,,
+7,Hesse,SQL,English,,,,
+7,Hesse,SQL,English,,,,
+7,Hesse,SQL,English,,,,
+7,Hesse,SQL,English,,,,
+7,Hesse,Java,English,,,,
+7,Hesse,Java,English,,,,
+7,Hesse,Java,English,,,,
+7,Hesse,Java,English,,,,
+7,Hesse,JavaScript,German,,,,
+7,Hesse,Scala,German,,,,
+7,Hesse,Scala,German,,,,
+7,Hesse,Matlab,German,,,,
+7,Hesse,Matlab,German,,,,
+7,Hesse,SAS,German,,,,
+7,Hesse,SAS,German,,,,
+7,Hesse,Perl,German,,,,
+7,Hesse,Perl,German,,,,
+7,Hesse,VBA,German,,,,
+7,Hesse,R,German,,,,
+7,Hesse,R,German,,,,
+7,Hesse,R,German,,,,
+7,Hesse,R,German,,,,
+7,Hesse,R,German,,,,
+7,Hesse,R,German,,,,
+7,Hesse,R,German,,,,
+7,Hesse,,German,,,,
+7,Hesse,,German,,,,
+7,Hesse,,German,,,,
+7,Hesse,,German,,,,
+7,Hesse,,German,,,,
+7,Hesse,,German,,,,
+7,Hesse,,German,,,,
+7,Hesse,,German,,,,
+7,Hesse,,German,,,,
+7,Hesse,,German,,,,
+7,Hesse,,German,,,,
+7,Hesse,,German,,,,
+7,Hesse,,German,,,,
+7,Hesse,,French,,,,
+7,Hesse,,French,,,,
+7,Hesse,,Danish,,,,
+8,Lower Saxony,Python,English,Master,Tableau,,Google Analytics
+8,Lower Saxony,Python,English,Bachelor,Tableau,,Google Analytics
+8,Lower Saxony,Python,English,Bachelor,Tableau,,Google Analytics
+8,Lower Saxony,Python,English,,Tableau,,Adobe Analytics
+8,Lower Saxony,Python,English,,Tableau,,Excel
+8,Lower Saxony,SQL,English,,Power BI,,Excel
+8,Lower Saxony,SQL,English,,,,Excel
+8,Lower Saxony,SQL,English,,,,Excel
+8,Lower Saxony,SQL,English,,,,Excel
+8,Lower Saxony,SQL,English,,,,Excel
+8,Lower Saxony,SQL,English,,,,Excel
+8,Lower Saxony,SQL,English,,,,
+8,Lower Saxony,Java,English,,,,
+8,Lower Saxony,JavaScript,English,,,,
+8,Lower Saxony,JavaScript,English,,,,
+8,Lower Saxony,R,English,,,,
+8,Lower Saxony,R,English,,,,
+8,Lower Saxony,,English,,,,
+8,Lower Saxony,,English,,,,
+8,Lower Saxony,,German,,,,
+8,Lower Saxony,,German,,,,
+8,Lower Saxony,,German,,,,
+8,Lower Saxony,,German,,,,
+8,Lower Saxony,,German,,,,
+8,Lower Saxony,,German,,,,
+8,Lower Saxony,,German,,,,
+8,Lower Saxony,,German,,,,
+8,Lower Saxony,,German,,,,
+8,Lower Saxony,,German,,,,
+8,Lower Saxony,,German,,,,
+8,Lower Saxony,,German,,,,
+9,Mecklenburg-Vorpommern,Python,English,Master,Tableau,NumPy,PowerPoint
+9,Mecklenburg-Vorpommern,Python,English,Bachelor,Tableau,SciPy,PowerPoint
+9,Mecklenburg-Vorpommern,Python,English,Bachelor,Tableau,Pandas,PowerPoint
+9,Mecklenburg-Vorpommern,Python,English,Bachelor,Tableau,,Google Analytics
+9,Mecklenburg-Vorpommern,Python,English,Bachelor,Tableau,,Google Analytics
+9,Mecklenburg-Vorpommern,Python,English,Bachelor,Tableau,,Excel
+9,Mecklenburg-Vorpommern,Python,English,Bachelor,Tableau,,Excel
+9,Mecklenburg-Vorpommern,Python,English,Bachelor,Tableau,,Excel
+9,Mecklenburg-Vorpommern,Python,English,Bachelor,Tableau,,Excel
+9,Mecklenburg-Vorpommern,Python,English,Bachelor,QLIK,,Excel
+9,Mecklenburg-Vorpommern,Python,English,Bachelor,QLIK,,Excel
+9,Mecklenburg-Vorpommern,Python,English,Bachelor,QLIK,,Excel
+9,Mecklenburg-Vorpommern,Python,English,Bachelor,Looker,,Excel
+9,Mecklenburg-Vorpommern,Python,English,Bachelor,Looker,,Excel
+9,Mecklenburg-Vorpommern,Python,English,,Power BI,,Excel
+9,Mecklenburg-Vorpommern,Python,English,,Power BI,,Excel
+9,Mecklenburg-Vorpommern,Python,English,,Power BI,,Excel
+9,Mecklenburg-Vorpommern,Python,English,,Power BI,,Excel
+9,Mecklenburg-Vorpommern,Python,English,,Power BI,,Excel
+9,Mecklenburg-Vorpommern,Python,English,,Power BI,,Excel
+9,Mecklenburg-Vorpommern,Python,English,,Power BI,,
+9,Mecklenburg-Vorpommern,SQL,English,,Power BI,,
+9,Mecklenburg-Vorpommern,SQL,English,,Power BI,,
+9,Mecklenburg-Vorpommern,SQL,English,,,,
+9,Mecklenburg-Vorpommern,SQL,English,,,,
+9,Mecklenburg-Vorpommern,SQL,English,,,,
+9,Mecklenburg-Vorpommern,SQL,English,,,,
+9,Mecklenburg-Vorpommern,SQL,English,,,,
+9,Mecklenburg-Vorpommern,SQL,English,,,,
+9,Mecklenburg-Vorpommern,SQL,English,,,,
+9,Mecklenburg-Vorpommern,SQL,English,,,,
+9,Mecklenburg-Vorpommern,SQL,English,,,,
+9,Mecklenburg-Vorpommern,SQL,English,,,,
+9,Mecklenburg-Vorpommern,SQL,English,,,,
+9,Mecklenburg-Vorpommern,SQL,English,,,,
+9,Mecklenburg-Vorpommern,SQL,English,,,,
+9,Mecklenburg-Vorpommern,SQL,English,,,,
+9,Mecklenburg-Vorpommern,SQL,English,,,,
+9,Mecklenburg-Vorpommern,SQL,English,,,,
+9,Mecklenburg-Vorpommern,SQL,English,,,,
+9,Mecklenburg-Vorpommern,SQL,English,,,,
+9,Mecklenburg-Vorpommern,SQL,German,,,,
+9,Mecklenburg-Vorpommern,SQL,German,,,,
+9,Mecklenburg-Vorpommern,SQL,German,,,,
+9,Mecklenburg-Vorpommern,SQL,German,,,,
+9,Mecklenburg-Vorpommern,SQL,German,,,,
+9,Mecklenburg-Vorpommern,Java,German,,,,
+9,Mecklenburg-Vorpommern,Java,German,,,,
+9,Mecklenburg-Vorpommern,Java,German,,,,
+9,Mecklenburg-Vorpommern,Java,German,,,,
+9,Mecklenburg-Vorpommern,Java,German,,,,
+9,Mecklenburg-Vorpommern,Scala,German,,,,
+9,Mecklenburg-Vorpommern,Scala,German,,,,
+9,Mecklenburg-Vorpommern,Matlab,German,,,,
+9,Mecklenburg-Vorpommern,SAS,German,,,,
+9,Mecklenburg-Vorpommern,SAS,German,,,,
+9,Mecklenburg-Vorpommern,Perl,German,,,,
+9,Mecklenburg-Vorpommern,Perl,German,,,,
+9,Mecklenburg-Vorpommern,VBA,German,,,,
+9,Mecklenburg-Vorpommern,R,German,,,,
+9,Mecklenburg-Vorpommern,R,German,,,,
+9,Mecklenburg-Vorpommern,R,German,,,,
+9,Mecklenburg-Vorpommern,R,German,,,,
+9,Mecklenburg-Vorpommern,R,German,,,,
+9,Mecklenburg-Vorpommern,R,German,,,,
+9,Mecklenburg-Vorpommern,R,German,,,,
+9,Mecklenburg-Vorpommern,R,German,,,,
+9,Mecklenburg-Vorpommern,R,German,,,,
+9,Mecklenburg-Vorpommern,R,German,,,,
+9,Mecklenburg-Vorpommern,R,German,,,,
+9,Mecklenburg-Vorpommern,R,German,,,,
+9,Mecklenburg-Vorpommern,,German,,,,
+9,Mecklenburg-Vorpommern,,German,,,,
+9,Mecklenburg-Vorpommern,,German,,,,
+9,Mecklenburg-Vorpommern,,German,,,,
+9,Mecklenburg-Vorpommern,,German,,,,
+9,Mecklenburg-Vorpommern,,German,,,,
+9,Mecklenburg-Vorpommern,,French,,,,
+9,Mecklenburg-Vorpommern,,French,,,,
