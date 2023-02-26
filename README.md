@@ -18,6 +18,22 @@ Extract the vacancies posted for a data analyst role from Indeed using a spider 
 </ol>
 
 <h3 id ="about_the_data">1. About The Data:</h3>
-I have built a spider in Scrapy, that extracts the requirement field of the vacancy that has been posted for a data analyst role. So, each time a spider crawls, it focuses on one state and then move on to another, until all the data has been extracted for all the 16 states. 
+The data used in this project has been extracted from:
+<a href="https://de.indeed.com/">Indeed</a>
 
-<li><a href="#extract"><b> Extract </a></b></li>
+<h3 id="extract">2.Extract</h3>
+A spider has been build in Scrapy, which extracts the data of requirement section for all the states that has been posted for Data Analyst and once the extraction for one state has been completed, the raw data is stored as a CSV file.
+
+<h3 id="transform">3.Transform</h3>
+Once all the extraction process is completed and we have data in CSV files, 16 CSV files for 16 different states, NLTK and Pandas are used to do all the data cleaning, removing stop words, filtering, merging and concatenation of all the separate CSV files.
+
+<h3 id="load">4.Load</h3>
+Once all the transformation is done, all the 16 CSV files are carefully analyzed regarding the column names and finally loaded as a CSV file for building a dashboard in Tableau.
+
+<h3 id="visualize">5.Dashboard</h3>
+Finally, the CSV file is imported in Tableau and the dashboard has been created.
+Feel free to play around, you can access the dashboard from here: <a href="https://public.tableau.com/app/profile/nishan.karki/viz/Book1_16575695920440/Dataanalystrequirementanalysis"> Skills Needed To Be A Data Analyst</a>
+<br>
+<br>
+<h4>Below is a screen shot of the dashboard </h4>
+<img src="./images/dashboard.png" alt="Data analyst Dashboard by Nishan karki" title="Data analyst skills Dashboard by Nishan Karki">
